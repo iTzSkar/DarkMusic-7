@@ -1,6 +1,6 @@
 token=NDk2Njk4NzU4NTgzNjgxMDI3.DpUemA.5iD2KXckKXSKRB2nsAHA9XiavY8
 owner=485579083649122304
 prefix=3
-game=
+game=vers music  ♫
 stayinchannel=true
 songinstatus=false
